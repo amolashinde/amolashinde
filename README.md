@@ -2,7 +2,7 @@
 <h3 align="center">Student | @PES'MCOE | App Dev Enthusiast</h3>
 
 
-- I'm currently in Third year of my undergraduate degree at Pes'MCOE, Pune
+- I'm currently in Last year of my undergraduate degree at Pes'MCOE, Pune
 <!-- - 🧠 Self taught developer -->
 - 👩‍💻 Currently learning Core JAVA 
 - 👩‍💻 Currently learning OBJECT ORENTED PROGRAMMING! 
