@@ -1,5 +1,5 @@
 <h1 align="center">Hey Folks👋, I'm AMOL Shinde</h1>
-<h3 align="center">Student | @PES'MCOE | App Dev Enthusiast</h3>
+<h3 align="center">Student | @PES'MCOE</h3>
 
 
 - I'm currently in Last year of my undergraduate degree at Pes'MCOE, Pune
