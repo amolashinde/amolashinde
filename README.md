@@ -3,12 +3,11 @@
 
 
 ### 🚀 About Me
-- 🎓 Currently pursuing my **B.E. in Computer Engineering** at PES' MCOE, Pune  
-- 💻 Passionate **Java Developer** with a strong grasp of **Object-Oriented Programming (OOP)**  
-- 🔨 Building **real-world projects** to strengthen problem-solving skills  
-- 🌱 Currently exploring **Advanced Java & Backend Development**  
-- 📧 Reach me at: **shindeamol7674@gmail.com**
-
+- 🎓 Currently pursuing my B.E. in Artificial Intelligence and Data Science Engineering at PES' MCOE, Pune  
+- 💻 Passionate Java Developer with a strong grasp of Object-Oriented Programming (OOP).  
+- 🔨 Building real-world projects to strengthen problem-solving skills  
+- 🌱 Currently exploring **Advanced Java, JDBC & Backend Development**  
+- 📧 Reach me at: shindeamol7674@gmail.com
 
 🤝 Connect With Me
 <p align="left">
